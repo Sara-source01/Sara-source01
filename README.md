@@ -45,13 +45,13 @@
 
 🌐 مشاريعي / Meus Projetos
 🧩 Meu Portfólio
-🔗 عرض المشروع
+🔗 https://github.com/Sara-source01/Meu-portfolio.git
 
 
 📄 صفحة تعريفية بمشاريعي ومهاراتي | Página com meus projetos e trajetória
 
 📇 Contact Manager
-🔗 المستودع
+🔗 https://github.com/Sara-source01/Contacts-API-Toti.git
 
 
 
@@ -59,15 +59,18 @@
 📄 إدارة جهات الاتصال باستخدام Node.js | Gerenciador de contatos com Node.js
 
 🍗 Receita de Frango
-🔗 المستودع
+🔗 https://github.com/Sara-source01/Receita-de-frango-HTML.git
 
 
 📄 صفحة وصفة بسيطة باستخدام HTML | Página de receita usando apenas HTML
+---
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sara-source01&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" /> </p>
+---
 🏆 إنجازاتي على GitHub / Minhas Conquistas no GitHub
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Sara-source01&theme=flat" alt="GitHub Trophies" /> </p>
+---
 📫 للتواصل / Contato
 🌐 LinkedIn https://linkedin.com/in/sara-ebrahim-george-24759b324
 📧 sara.ebrahim.george@gmail.com
