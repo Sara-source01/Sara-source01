@@ -151,10 +151,8 @@
 ---
 
 <p align="center">
-  🌟 شكراً لزيارتك لصفحتي، لا تتردد في التواصل معي!  
-  <br/>⭐ Obrigada por visitar meu perfil, fique à vontade para entrar em contato!
+  <marquee behavior="alternate" direction="right" scrollamount="6">
+    🌟 شكراً لزيارتك لصفحتي، لا تتردد في التواصل معي! ⭐ Obrigada por visitar meu perfil, fique à vontade para entrar em contato!
+  </marquee>
 </p>
-
-
-
 
