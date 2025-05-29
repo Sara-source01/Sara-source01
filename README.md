@@ -118,19 +118,16 @@
 
 ### 🏆 إنجازاتي | Minhas Conquistas
 
+<!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sara-source01&theme=tokyonight&row=1&column=5" alt="GitHub Trophies" />
 </p>
+-->
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sara-source01&theme=radical&row=2&column=3" alt="GitHub Trophies" />
 </p>
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sara-source01&theme=gruvbox&row=1&column=5" alt="GitHub Trophies" />
-</p>
-
 
 
 
