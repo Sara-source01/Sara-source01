@@ -31,7 +31,7 @@
 
 ---
 
-## 💼 لمحة شخصية | Quick Intro ![Personal Info](https://img.shields.io/badge/لمحة-شخصية-9370DB?style=flat-square&logo=account-circle&logoColor=white)
+## 💼 لمحة شخصية | Quick Intro 
 
 <p align="center" style="background-color:#f0f0f0; padding:15px; border-radius:10px; max-width:600px; margin:auto; box-shadow: 0 4px 8px rgba(0,0,0,0.1); font-size:16px; line-height:1.6;">
   
