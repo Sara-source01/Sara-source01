@@ -1,4 +1,5 @@
-# 👋 **أهلاً بك، أنا سارة** | *Hi there, I'm Sara*
+# 👋 **أهلاً بك، أنا سارة** | **Hi there, I'm Sara**
+
 
 
 <!--
@@ -19,10 +20,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/status-em%20aprendizado-ff69b4?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/focus-fullstack-blueviolet?style=flat-square" />
+  <br/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-18.2.0-20232A?style=flat-square&logo=react&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/Node.js-18.15.0-green?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Insomnia-%2340B4D4?style=flat-square&logo=insomnia&logoColor=white" />
