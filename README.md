@@ -82,28 +82,21 @@
 
 <table width="100%">
   <tr>
-    <td align="center" valign="top" width="50%">
-
-      <div style="background-color:#f0f0f0; padding:15px; border-radius:10px; max-width:90%; margin:auto; box-shadow: 0 4px 8px rgba(0,0,0,0.1); font-size:16px; line-height:1.6; text-align: right;">
-        💻 مطورة ويب في طور التعلم<br/>
-        💡 أعمل على مشاريع باستخدام HTML, CSS, JavaScript، Node.js<br/>
-        🌱 أطمح لبناء مسيرة مهنية في تطوير الويب الكامل Full Stack<br/>
-        📘 أعمل على تعلم ++C لتعزيز مهاراتي البرمجية وتطوير تطبيقات عالية الكفاءة
-      </div>
-
+    <td align="right" valign="top" width="50%" style="background-color:#f0f0f0; padding:15px; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); font-size:16px; line-height:1.6;">
+      💻 مطورة ويب في طور التعلم<br/>
+      💡 أعمل على مشاريع باستخدام HTML, CSS, JavaScript، Node.js<br/>
+      🌱 أطمح لبناء مسيرة مهنية في تطوير الويب الكامل Full Stack<br/>
+      📘 أعمل على تعلم ++C لتعزيز مهاراتي البرمجية وتطوير تطبيقات عالية الكفاءة
     </td>
-    <td align="center" valign="top" width="50%">
-
-      <div style="background-color:#f0f0f0; padding:15px; border-radius:10px; max-width:90%; margin:auto; box-shadow: 0 4px 8px rgba(0,0,0,0.1); font-size:16px; line-height:1.6; text-align: left;">
-        💻 Desenvolvedora web em formação<br/>
-        💡 Criando projetos com HTML, CSS, JavaScript, Node.js<br/>
-        🌱 Busco uma carreira como desenvolvedora full stack<br/>
-        📘 Estudando C++ para aprimorar minhas habilidades em programação e desenvolver aplicações eficientes
-      </div>
-
+    <td align="left" valign="top" width="50%" style="background-color:#f0f0f0; padding:15px; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); font-size:16px; line-height:1.6;">
+      💻 Desenvolvedora web em formação<br/>
+      💡 Criando projetos com HTML, CSS, JavaScript, Node.js<br/>
+      🌱 Busco uma carreira como desenvolvedora full stack<br/>
+      📘 Estudando C++ para aprimorar minhas habilidades em programação e desenvolver aplicações eficientes
     </td>
   </tr>
 </table>
+
 
 
 
