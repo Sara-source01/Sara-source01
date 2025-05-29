@@ -32,25 +32,46 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <br/>
-      <img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <br/>
-      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <br/>
-      <img src="https://img.shields.io/badge/React-18.2.0-20232A?style=flat-square&logo=react&logoColor=white" alt="React" />
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      </a><br/><br/>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      </a><br/><br/>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      </a><br/><br/>
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://img.shields.io/badge/React-18.2.0-20232A?style=flat-square&logo=react&logoColor=white" alt="React" />
+      </a>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Node.js-18.15.0-green?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /> <br/>
-      <img src="https://img.shields.io/badge/Express.js-%23404d59?style=flat-square&logo=express&logoColor=white" alt="Express.js" /> <br/>
-      <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <br/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <a href="https://nodejs.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Node.js-18.15.0-green?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+      </a><br/><br/>
+      <a href="https://expressjs.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Express.js-%23404d59?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+      </a><br/><br/>
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </a><br/><br/>
+      <a href="https://isocpp.org/" target="_blank">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+      </a>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Insomnia-%2340B4D4?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia" /> <br/>
-      <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <br/>
-      <img src="https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <a href="https://insomnia.rest/" target="_blank">
+        <img src="https://img.shields.io/badge/Insomnia-%2340B4D4?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia" />
+      </a><br/><br/>
+      <a href="https://github.com/" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      </a><br/><br/>
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      </a>
     </td>
   </tr>
 </table>
-
 
 
 ---
