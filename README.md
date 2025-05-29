@@ -80,21 +80,31 @@
 
 ## 👩‍💻 نبذة مهنية | Professional Snapshot
 
-<div align="center" style="background-color:#f0f0f0; padding:15px; border-radius:10px; max-width:600px; margin:auto; box-shadow: 0 4px 8px rgba(0,0,0,0.1); font-size:16px; line-height:1.6;">
-  
-  💻 مطورة ويب في طور التعلم  
-  💡 أعمل على مشاريع باستخدام HTML, CSS, JavaScript، Node.js  
-  🌱 أطمح لبناء مسيرة مهنية في تطوير الويب الكامل Full Stack  
-  📘 أعمل على تعلم ++C لتعزيز مهاراتي البرمجية وتطوير تطبيقات عالية الكفاءة 
-  
-  <br/>
-  
-  💻 Desenvolvedora web em formação  
-  💡 Criando projetos com HTML, CSS, JavaScript, Node.js  
-  🌱 Busco uma carreira como desenvolvedora full stack  
-  📘 Estudando C++ para aprimorar minhas habilidades em programação e desenvolver aplicações eficientes
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%">
 
-</div>
+      <div style="background-color:#f0f0f0; padding:15px; border-radius:10px; max-width:90%; margin:auto; box-shadow: 0 4px 8px rgba(0,0,0,0.1); font-size:16px; line-height:1.6; text-align: right;">
+        💻 مطورة ويب في طور التعلم<br/>
+        💡 أعمل على مشاريع باستخدام HTML, CSS, JavaScript، Node.js<br/>
+        🌱 أطمح لبناء مسيرة مهنية في تطوير الويب الكامل Full Stack<br/>
+        📘 أعمل على تعلم ++C لتعزيز مهاراتي البرمجية وتطوير تطبيقات عالية الكفاءة
+      </div>
+
+    </td>
+    <td align="center" valign="top" width="50%">
+
+      <div style="background-color:#f0f0f0; padding:15px; border-radius:10px; max-width:90%; margin:auto; box-shadow: 0 4px 8px rgba(0,0,0,0.1); font-size:16px; line-height:1.6; text-align: left;">
+        💻 Desenvolvedora web em formação<br/>
+        💡 Criando projetos com HTML, CSS, JavaScript, Node.js<br/>
+        🌱 Busco uma carreira como desenvolvedora full stack<br/>
+        📘 Estudando C++ para aprimorar minhas habilidades em programação e desenvolver aplicações eficientes
+      </div>
+
+    </td>
+  </tr>
+</table>
+
 
 
 ---
