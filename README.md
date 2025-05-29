@@ -12,7 +12,21 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="Sparkle Animation" width="100" />
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="Animated Waves" width="200" />
+    <span style="
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    pointer-events: none;
+    font-family: Arial, sans-serif;
+  ">
+    مرحباً
+  </span>
 </p>
 
 <p align="center">
