@@ -82,20 +82,21 @@
 
 <table width="100%">
   <tr>
-    <td align="right" valign="top" width="50%" style="background-color:#f0f0f0; padding:15px; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); font-size:16px; line-height:1.6;">
-      💻 مطورة ويب في طور التعلم<br/>
-      💡 أعمل على مشاريع باستخدام HTML, CSS, JavaScript، Node.js<br/>
-      🌱 أطمح لبناء مسيرة مهنية في تطوير الويب الكامل Full Stack<br/>
-      📘 أعمل على تعلم ++C لتعزيز مهاراتي البرمجية وتطوير تطبيقات عالية الكفاءة
+    <td align="right" valign="top" width="50%" style="background-color:#f0f0f0; padding:15px; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); font-size:16px; line-height:1.8;">
+      &#9679; مطورة ويب في طور التعلم<br/>
+      &#9679; أعمل على مشاريع باستخدام HTML, CSS, JavaScript، Node.js<br/>
+      &#9679; أطمح لبناء مسيرة مهنية في تطوير الويب الكامل Full Stack<br/>
+      &#9679; أعمل على تعلم ++C لتعزيز مهاراتي البرمجية وتطوير تطبيقات عالية الكفاءة
     </td>
-    <td align="left" valign="top" width="50%" style="background-color:#f0f0f0; padding:15px; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); font-size:16px; line-height:1.6;">
-      💻 Desenvolvedora web em formação<br/>
-      💡 Criando projetos com HTML, CSS, JavaScript, Node.js<br/>
-      🌱 Busco uma carreira como desenvolvedora full stack<br/>
-      📘 Estudando C++ para aprimorar minhas habilidades em programação e desenvolver aplicações eficientes
+    <td align="left" valign="top" width="50%" style="background-color:#f0f0f0; padding:15px; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); font-size:16px; line-height:1.8;">
+      &#9679; Desenvolvedora web em formação<br/>
+      &#9679; Criando projetos com HTML, CSS, JavaScript, Node.js<br/>
+      &#9679; Busco uma carreira como desenvolvedora full stack<br/>
+      &#9679; Estudando C++ para aprimorar minhas habilidades em programação e desenvolver aplicações eficientes
     </td>
   </tr>
 </table>
+
 
 
 
