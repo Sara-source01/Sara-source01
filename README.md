@@ -1,4 +1,4 @@
-# 👋 **أهلاً بك، أنا سارة** | **Hi there, I'm Sara**
+ # 👋 **أهلاً بك، أنا سارة** | *Hi there, I'm Sara*
 
 
 
@@ -39,7 +39,7 @@
 <div align="center" style="background-color:#f0f0f0; padding:15px; border-radius:10px; max-width:600px; margin:auto; box-shadow: 0 4px 8px rgba(0,0,0,0.1); font-size:16px; line-height:1.6;">
   
   💻 مطورة ويب في طور التعلم  
-  💡 أعمل على مشاريع باستخدام HTML, CSS, JavaScript، Node.js و C++  
+  💡 أعمل على مشاريع باستخدام HTML, CSS, JavaScript، Node.js و ++C  
   🌱 أطمح لبناء مسيرة مهنية في تطوير الويب الكامل Full Stack  
   
   <br/>
