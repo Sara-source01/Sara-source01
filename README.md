@@ -38,23 +38,34 @@
 
 ---
 
-### 🇸🇦 نبذة عني
+## ✨ نبذة عني | Sobre mim
 
-- 🎓 حاصلة على شهادة في الاقتصاد من جامعة الفرات – سوريا  
-- 🌍 أعيش في البرازيل وأطوّر مهاراتي البرمجية  
-- 📚 أتعلم تطوير الواجهات الأمامية والخلفية  
-- 💡 أستخدم Git وGitHub لمشاركة مشاريعي والتعلم  
-- 🎯 هدفي: العمل كمطورة ويب محترفة  
-
----
-
-### 🇧🇷 Sobre mim
-
-- 🎓 Formada em Economia pela Universidade Al-Furat, Síria  
-- 🌍 Moro no Brasil e estudo programação web  
-- 📚 Aprendendo Front-End e Back-End  
-- 💡 Uso Git e GitHub para compartilhar projetos  
-- 🎯 Objetivo: atuar como desenvolvedora profissional  
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      
+  ### 🇸🇦 بالعربية
+  
+  - 🎓 حاصلة على شهادة في الاقتصاد من جامعة الفرات – سوريا  
+  - 🌍 أعيش في البرازيل وأطوّر مهاراتي البرمجية  
+  - 📚 أتعلم تطوير الواجهات الأمامية والخلفية  
+  - 💡 أستخدم Git وGitHub لمشاركة مشاريعي والتعلّم من الآخرين  
+  - 🎯 هدفي: العمل كمطوّرة ويب محترفة  
+  
+  </td>
+    <td align="center" valign="top" width="50%">
+      
+  ### 🇧🇷 Em português
+  
+  - 🎓 Formada em Economia pela Universidade Al-Furat, Síria  
+  - 🌍 Moro no Brasil e estudo programação web  
+  - 📚 Aprendendo Front-End e Back-End  
+  - 💡 Uso Git e GitHub para compartilhar meus projetos e aprender com a comunidade  
+  - 🎯 Objetivo: atuar como desenvolvedora profissional  
+  
+  </td>
+  </tr>
+</table>
 
 ---
 
