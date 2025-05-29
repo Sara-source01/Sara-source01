@@ -86,26 +86,24 @@
 <table>
   <tr>
     <td align="center" valign="top" width="50%">
-      
-  ### 🇸🇦 بالعربية
-  
-  - 💻 مطورة ويب في طور التعلم  
-  - 🌍 أعمل على مشاريع باستخدام HTML, CSS, JavaScript, Node.js  
-  - 💡 أطمح لبناء مسيرة مهنية في تطوير الويب الكامل Full Stack  
-  - 📘 أعمل على تعلم ++C لتعزيز مهاراتي البرمجية وتطوير تطبيقات عالية الكفاءة   
-    
-  
-  </td>
-    <td align="center" valign="top" width="50%">
-      
+            
   ### 🇧🇷 Em português
   
   -  💻 Desenvolvedora web em formação  
   - 💡 Criando projetos com HTML, CSS, JavaScript, Node.js  
   - 🌱 Busco uma carreira como desenvolvedora full stack  
   - 📘 Estudando C++ para aprimorar minhas habilidades em programação e desenvolver aplicações eficientes 
-   
   
+    
+  
+  </td>
+    <td align="center" valign="top" width="50%">
+    ### 🇸🇦 بالعربية
+  
+  - 💻 مطورة ويب في طور التعلم  
+  - 🌍 أعمل على مشاريع باستخدام HTML, CSS, JavaScript, Node.js  
+  - 💡 أطمح لبناء مسيرة مهنية في تطوير الويب الكامل Full Stack  
+  - 📘 أعمل على تعلم ++C لتعزيز مهاراتي البرمجية وتطوير تطبيقات عالية الكفاءة   
   </td>
   </tr>
 </table>
