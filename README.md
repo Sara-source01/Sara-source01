@@ -58,15 +58,15 @@
 
 ---
 
-### 🛠️ المهارات | Skills
+<!--### 🛠️ المهارات | Skills
 
 **Front-End:** HTML5, CSS3, JavaScript, React  
 **Back-End:** Node.js, Express, MongoDB  
 **Tools:** Git, GitHub, VS Code, Postman, Insomnia
 
 ---
-
-### 🌐 مشاريعي | Meus Projetos
+-->
+<!--### 🌐 مشاريعي | Meus Projetos
 
 <p align="center">
   <a href="https://github.com/Sara-source01/Meu-portfolio" target="_blank">
@@ -81,7 +81,7 @@
 </p>
 
 ---
-
+-->
 ### 📊 إحصائيات GitHub
 
 <p align="center">
