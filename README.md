@@ -1,15 +1,14 @@
 ## Hi there 👋
 ![Banner](https://raw.githubusercontent.com/Sara-source01/Sara-source01/main/assets/Image.png)
 
-
 ![Node.js](https://img.shields.io/badge/node.js-18.15.0-green?logo=node.js&style=flat-square)
 ![React](https://img.shields.io/badge/react-18.2.0-blue?logo=react&style=flat-square)
 
 <h1 align="center">مرحبًا! 👋 أنا سارة | Olá! 👋 Eu sou a Sara</h1>
 
 <p align="center">
-💻 مطورة ويب في طور التعلم، أطمح لبناء مشاريع حقيقية باستخدام HTML, CSS, JavaScript وNode.js 
-  
+💻 مطورة ويب في طور التعلم، أطمح لبناء مشاريع حقيقية باستخدام HTML, CSS, JavaScript وNode.js  
+<br>
 💻 Desenvolvedora web em formação, com foco em projetos práticos usando HTML, CSS, JavaScript e Node.js
 </p>
 
@@ -37,42 +36,48 @@
 
 ## 🛠️ Habilidades / المهارات
 
-```bash
 💡 Front-End: HTML5 | CSS3 | JavaScript | React  
 🛠️ Back-End: Node.js | Express | MongoDB  
 🔧 Ferramentas | أدوات: Git | GitHub | VS Code | Postman | Insomnia
 
+---
 
-🌐 مشاريعي / Meus Projetos
-🧩 Meu Portfólio
-🔗 https://github.com/Sara-source01/Meu-portfolio.git
+## 🌐 مشاريعي / Meus Projetos
 
-
+### 🧩 Meu Portfólio  
+🔗 [رابط المشروع](https://github.com/Sara-source01/Meu-portfolio.git)  
 📄 صفحة تعريفية بمشاريعي ومهاراتي | Página com meus projetos e trajetória
 
-📇 Contact Manager
-🔗 https://github.com/Sara-source01/Contacts-API-Toti.git
-
-
-
-
+### 📇 Contact Manager  
+🔗 [رابط المستودع](https://github.com/Sara-source01/Contacts-API-Toti.git)  
 📄 إدارة جهات الاتصال باستخدام Node.js | Gerenciador de contatos com Node.js
 
-🍗 Receita de Frango
-🔗 https://github.com/Sara-source01/Receita-de-frango-HTML.git
-
-
+### 🍗 Receita de Frango  
+🔗 [رابط المستودع](https://github.com/Sara-source01/Receita-de-frango-HTML.git)  
 📄 صفحة وصفة بسيطة باستخدام HTML | Página de receita usando apenas HTML
+
 ---
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sara-source01&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" /> </p>
----
-🏆 إنجازاتي على GitHub / Minhas Conquistas no GitHub
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Sara-source01&theme=flat" alt="GitHub Trophies" /> </p>
----
-📫 للتواصل / Contato
-🌐 LinkedIn https://linkedin.com/in/sara-ebrahim-george-24759b324
-📧 sara.ebrahim.george@gmail.com
+## 📊 GitHub Stats
 
-<p align="center">🌟 شكراً لزيارتك لصفحتي! / Obrigada por visitar meu perfil! 🌟</p> ```
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Sara-source01&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" /> 
+</p>
+
+---
+
+## 🏆 إنجازاتي على GitHub / Minhas Conquistas no GitHub
+
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Sara-source01&theme=flat" alt="GitHub Trophies" /> 
+</p>
+
+---
+
+## 📫 للتواصل / Contato
+
+🌐 [LinkedIn](https://linkedin.com/in/sara-ebrahim-george-24759b324)  
+📧 [sara.ebrahim.george@gmail.com](mailto:sara.ebrahim.george@gmail.com)
+
+<p align="center">🌟 شكراً لزيارتك لصفحتي! / Obrigada por visitar meu perfil! 🌟</p>
+
