@@ -15,10 +15,6 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="Animated Waves" width="200" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/status-em%20aprendizado-ff69b4?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/focus-fullstack-blueviolet?style=flat-square" />
   <br/>
@@ -28,10 +24,12 @@
   <img src="https://img.shields.io/badge/React-18.2.0-20232A?style=flat-square&logo=react&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/Node.js-18.15.0-green?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Insomnia-%2340B4D4?style=flat-square&logo=insomnia&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
 </p>
+
 
 ---
 
@@ -124,6 +122,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Sara-source01&theme=tokyonight&row=1&column=5" alt="GitHub Trophies" />
 </p>
 
+
 <!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sara-source01&theme=flat" alt="GitHub Trophies" />
@@ -165,6 +164,7 @@
   🌟 شكراً لزيارتك لصفحتي، لا تتردد في التواصل معي!  
   <br/>⭐ Obrigada por visitar meu perfil, fique à vontade para entrar em contato!
 </p>
+
 
 
 ---
