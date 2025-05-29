@@ -12,7 +12,7 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Sparkle Animation" width="100" />
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Sparkle Animation" width="100" />
 </p>
 
 <p align="center">
