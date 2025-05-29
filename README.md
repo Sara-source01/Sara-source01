@@ -1,4 +1,5 @@
-# 👋 أهلاً بك | Hi there
+# 👋 أهلاً بك، أنا سارة | Hi there, I'm Sara
+
 <!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sara-source01/Sara-source01/main/assets/Image.png" alt="Banner" width="80%" />
@@ -28,13 +29,14 @@
 ---
 
 
-## ✨ أنا سارة | Eu sou a Sara ✨
+> 💻 مطورة ويب في طور التعلم  
+> 💡 أعمل على مشاريع باستخدام HTML, CSS, JavaScript و Node.js  
+> 🌱 أطمح لبناء مسيرة مهنية في تطوير الويب الكامل Full Stack
 
-<p align="center">
-  💻 مطورة ويب في طور التعلم، أطمح لبناء مشاريع حقيقية باستخدام HTML, CSS, JavaScript وNode.js  
-  <br>
-  💻 Desenvolvedora web em formação, com foco em projetos práticos usando HTML, CSS, JavaScript e Node.js
-</p>
+> 💻 Desenvolvedora web em formação  
+> 💡 Criando projetos com HTML, CSS, JavaScript e Node.js  
+> 🌱 Busco uma carreira como desenvolvedora full stack
+
 
 ---
 
@@ -139,7 +141,11 @@
 -->
 ---
 
-<p align="center">🌟 شكراً لزيارتك لصفحتي! / Obrigada por visitar meu perfil! 🌟</p>
+<p align="center">
+  🌟 شكراً لزيارتك لصفحتي، لا تتردد في التواصل معي!  
+  <br/>⭐ Obrigada por visitar meu perfil, fique à vontade para entrar em contato!
+</p>
+
 
 
 
