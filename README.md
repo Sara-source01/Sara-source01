@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Banner](https://raw.githubusercontent.com/Sara-source01/Sara-source01/main/assets/Image.png)
+
 
 ![Node.js](https://img.shields.io/badge/node.js-18.15.0-green?logo=node.js&style=flat-square)
 ![React](https://img.shields.io/badge/react-18.2.0-blue?logo=react&style=flat-square)
