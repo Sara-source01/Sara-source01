@@ -11,6 +11,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://i.imgur.com/wSkIjlK.gif" alt="Sparkle Background" width="600" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-em%20aprendizado-ff69b4?style=flat-square&logo=github" />
