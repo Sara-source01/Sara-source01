@@ -20,8 +20,8 @@
 
 ## 🛠️ مهارات في طور التعلم | Habilidades em desenvolvimento
 
-> هذه التقنيات التي أتعلمها وأعمل على تطوير مهاراتي فيها بشكل مستمر.  
-> Estas são as tecnologias que estou estudando e aprimorando constantemente.
+*هذه التقنيات التي أتعلمها وأعمل على تطوير مهاراتي فيها بشكل مستمر.*  
+*Estas são as tecnologias que estou estudando e aprimorando constantemente.*
 
 
 <table align="center">
