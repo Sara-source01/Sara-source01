@@ -48,14 +48,14 @@
   💻 مطورة ويب في طور التعلم  
   💡 أعمل على مشاريع باستخدام HTML, CSS, JavaScript، Node.js  
   🌱 أطمح لبناء مسيرة مهنية في تطوير الويب الكامل Full Stack  
-  📘 أطمح لتعلّم لغة C++ لتعزيز فهمي لأساسيات البرمجة وبناء تطبيقات قوية  
+  📘 أعمل على تعلم ++C لتعزيز مهاراتي البرمجية وتطوير تطبيقات عالية الكفاءة 
   
   <br/>
   
   💻 Desenvolvedora web em formação  
   💡 Criando projetos com HTML, CSS, JavaScript, Node.js  
   🌱 Busco uma carreira como desenvolvedora full stack  
-  📘 Tenho interesse em aprender C++ para fortalecer minha base em programação e criar aplicações robustas
+  📘 Estudando C++ para aprimorar minhas habilidades em programação e desenvolver aplicações eficientes
 
 </div>
 
