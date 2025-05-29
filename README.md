@@ -6,7 +6,8 @@
 <h1 align="center">مرحبًا! 👋 أنا سارة | Olá! 👋 Eu sou a Sara</h1>
 
 <p align="center">
-💻 مطورة ويب في طور التعلم، أطمح لبناء مشاريع حقيقية باستخدام HTML, CSS, JavaScript وNode.js  
+💻 مطورة ويب في طور التعلم، أطمح لبناء مشاريع حقيقية باستخدام HTML, CSS, JavaScript وNode.js 
+  
 💻 Desenvolvedora web em formação, com foco em projetos práticos usando HTML, CSS, JavaScript e Node.js
 </p>
 
@@ -66,7 +67,7 @@
 🏆 إنجازاتي على GitHub / Minhas Conquistas no GitHub
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Sara-source01&theme=flat" alt="GitHub Trophies" /> </p>
 📫 للتواصل / Contato
-🌐 LinkedIn
+🌐 LinkedIn https://linkedin.com/in/sara-ebrahim-george-24759b324
 📧 sara.ebrahim.george@gmail.com
 
 <p align="center">🌟 شكراً لزيارتك لصفحتي! / Obrigada por visitar meu perfil! 🌟</p> ```
