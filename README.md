@@ -31,43 +31,21 @@
 
 
 ---
-
 ## 💼 لمحة شخصية | Quick Intro
 
-<p align="center" style="font-size:16px; line-height:1.6; max-width:600px; margin:auto;">
+<p align="center" style="background-color:#ffe6f0; padding:20px; border-radius:12px; max-width:650px; margin:auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:17px; line-height:1.5; color:#4b0033; box-shadow: 0 6px 15px rgba(255, 105, 180, 0.3);">
 
-  <span style="background-color:#e0f7fa; padding:4px 8px; border-radius:5px; display:inline-block; margin-bottom:6px;">
-    💻 <strong>مطورة ويب في طور التعلم</strong>
-  </span><br/>
+  💻 مطورة ويب في طور التعلم  
+  💡 أعمل على مشاريع باستخدام HTML, CSS, JavaScript، Node.js و C++  
+  🌱 أطمح لبناء مسيرة مهنية في تطوير الويب الكامل Full Stack  
 
-  <span style="background-color:#fff3e0; padding:4px 8px; border-radius:5px; display:inline-block; margin-bottom:6px;">
-    💡 أعمل على مشاريع باستخدام <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>Node.js</code> و <code>C++</code>
-  </span><br/>
+  <br/>
 
-  <span style="background-color:#e8f5e9; padding:4px 8px; border-radius:5px; display:inline-block;">
-    🌱 أطمح لبناء مسيرة مهنية في تطوير الويب الكامل <em>Full Stack</em>
-  </span>
+  💻 Desenvolvedora web em formação  
+  💡 Criando projetos com HTML, CSS, JavaScript, Node.js e C++  
+  🌱 Busco uma carreira como desenvolvedora full stack
 
 </p>
-
-<p align="center" style="font-size:16px; line-height:1.6; max-width:600px; margin:auto; margin-top:20px;">
-
-  <span style="background-color:#e0f7fa; padding:4px 8px; border-radius:5px; display:inline-block; margin-bottom:6px;">
-    💻 <strong>Desenvolvedora web em formação</strong>
-  </span><br/>
-
-  <span style="background-color:#fff3e0; padding:4px 8px; border-radius:5px; display:inline-block; margin-bottom:6px;">
-    💡 Criando projetos com <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>Node.js</code> e <code>C++</code>
-  </span><br/>
-
-  <span style="background-color:#e8f5e9; padding:4px 8px; border-radius:5px; display:inline-block;">
-    🌱 Busco uma carreira como desenvolvedora <em>full stack</em>
-  </span>
-
-</p>
-
-
-
 
 ---
 
