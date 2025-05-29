@@ -82,7 +82,7 @@
 
 <table width="100%">
   <tr>
-    <td align="right" valign="top" width="50%" style="background-color:#f0f0f0; padding:15px; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); font-size:16px; line-height:1.8;">
+    <td align="left" valign="top" width="50%" style="background-color:#f0f0f0; padding:15px; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); font-size:16px; line-height:1.8;">
       &#9679; 💻 مطورة ويب في طور التعلم<br/>
       &#9679; 💡 أعمل على مشاريع باستخدام HTML, CSS, JavaScript، Node.js<br/>
       &#9679; 🌱 أطمح لبناء مسيرة مهنية في تطوير الويب الكامل Full Stack<br/>
