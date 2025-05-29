@@ -12,10 +12,8 @@
 
 ---
 <p align="center">
-  <img src="https://i.imgur.com/wSkIjlK.gif" alt="sparkle" width="30" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Sparkle Animation" width="100" />
 </p>
-
-### 🔰 شاراتي التقنية <img src="https://i.imgur.com/wSkIjlK.gif" alt="sparkle" width="25" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-em%20aprendizado-ff69b4?style=flat-square&logo=github" />
