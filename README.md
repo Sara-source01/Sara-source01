@@ -20,22 +20,31 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-em%20aprendizado-ff69b4?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/focus-fullstack-blueviolet?style=flat-square" />
-  <br/>
+
+  <!-- Front-End -->
+  <strong>Front-End</strong><br/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-18.2.0-20232A?style=flat-square&logo=react&logoColor=white" />
-  <br/>
+  
+  <br/><br/>
+
+  <!-- Back-End -->
+  <strong>Back-End</strong><br/>
   <img src="https://img.shields.io/badge/Node.js-18.15.0-green?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-%23404d59?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white" />
+
+  <br/><br/>
+
+  <!-- Tools -->
+  <strong>Tools & Others</strong><br/>
   <img src="https://img.shields.io/badge/Insomnia-%2340B4D4?style=flat-square&logo=insomnia&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-</p>
 
+</p>
 
 
 ---
