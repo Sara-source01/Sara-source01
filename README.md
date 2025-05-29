@@ -52,13 +52,13 @@
 ### 🌐 مشاريعي | Meus Projetos
 
 <p align="center">
-  <a href="https://github.com/Sara-source01/Meu-portfolio" target="_blank" style="margin:0 10px;">
+  <a href="https://github.com/Sara-source01/Meu-portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Meu%20Portfólio-FF69B4?style=for-the-badge" alt="Portfolio" />
   </a>
-  <a href="https://github.com/Sara-source01/Contacts-API-Toti" target="_blank" style="margin:0 10px;">
+  <a href="https://github.com/Sara-source01/Contacts-API-Toti" target="_blank">
     <img src="https://img.shields.io/badge/Contact%20Manager-00CED1?style=for-the-badge" alt="Contact Manager" />
   </a>
-  <a href="https://github.com/Sara-source01/Receita-de-frango-HTML" target="_blank" style="margin:0 10px;">
+  <a href="https://github.com/Sara-source01/Receita-de-frango-HTML" target="_blank">
     <img src="https://img.shields.io/badge/Receita%20de%20Frango-FFA07A?style=for-the-badge" alt="Receita de Frango" />
   </a>
 </p>
@@ -84,19 +84,20 @@
 ### 📫 تواصل معي | Contato
 
 <p align="center">
-  <a href="https://linkedin.com/in/sara-ebrahim-george-24759b324" target="_blank" style="margin-right:15px; text-decoration:none; color:#0A66C2; font-weight:bold;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="20" style="vertical-align:middle;" />
-    &nbsp;LinkedIn
+  <a href="https://linkedin.com/in/sara-ebrahim-george-24759b324" target="_blank" style="margin-right:15px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" />
+    LinkedIn
   </a>  
-  <br><br>
-  <a href="mailto:sara.ebrahim.george@gmail.com" style="text-decoration:none; color:#D44638; font-weight:bold;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="20" style="vertical-align:middle;" />
-    &nbsp;sara.ebrahim.george@gmail.com
+  <br>
+  <a href="mailto:sara.ebrahim.george@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="24" />
+    sara.ebrahim.george@gmail.com
   </a>
 </p>
 
 ---
 
 <p align="center">🌟 شكراً لزيارتك لصفحتي! / Obrigada por visitar meu perfil! 🌟</p>
+
 
 
