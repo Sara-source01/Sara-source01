@@ -32,14 +32,22 @@
 
 ---
 
+## 💼 لمحة شخصية | Quick Intro
 
-> 💻 مطورة ويب في طور التعلم  
-> 💡 أعمل على مشاريع باستخدام HTML, CSS, JavaScript و Node.js  
-> 🌱 أطمح لبناء مسيرة مهنية في تطوير الويب الكامل Full Stack
+<p align="center" style="background-color:#f0f0f0; padding:15px; border-radius:10px; max-width:600px; margin:auto; box-shadow: 0 4px 8px rgba(0,0,0,0.1); font-size:16px; line-height:1.6;">
+  
+  💻 مطورة ويب في طور التعلم  
+  💡 أعمل على مشاريع باستخدام HTML, CSS, JavaScript، Node.js و C++  
+  🌱 أطمح لبناء مسيرة مهنية في تطوير الويب الكامل Full Stack  
+  
+  <br/>
+  
+  💻 Desenvolvedora web em formação  
+  💡 Criando projetos com HTML, CSS, JavaScript, Node.js e C++  
+  🌱 Busco uma carreira como desenvolvedora full stack
 
-> 💻 Desenvolvedora web em formação  
-> 💡 Criando projetos com HTML, CSS, JavaScript e Node.js  
-> 🌱 Busco uma carreira como desenvolvedora full stack
+</p>
+
 
 
 ---
