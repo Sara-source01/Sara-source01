@@ -194,11 +194,9 @@
   <a href="https://linkedin.com/in/sara-ebrahim-george-24759b324" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sara.ebrahim.george@gmail.com" target="_blank" rel="noopener noreferrer" target="_blank">
+ <a href="mailto:sara.ebrahim.george@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
-  </a>
 </p>
 
 <!--
