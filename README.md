@@ -1,9 +1,9 @@
 # 👋 أهلاً بك | Hi there
-
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sara-source01/Sara-source01/main/assets/Image.png" alt="Banner" width="80%" />
 </p>
-
+-->
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Sara-source01" alt="Visit Count" />
   <img src="https://img.shields.io/github/followers/Sara-source01?label=Followers&style=social" alt="GitHub Followers" />
