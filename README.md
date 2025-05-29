@@ -1,8 +1,24 @@
 ## Hi there 👋
-![Banner](https://raw.githubusercontent.com/Sara-source01/Sara-source01/main/assets/Image.png)
 
-![Node.js](https://img.shields.io/badge/node.js-18.15.0-green?logo=node.js&style=flat-square)
-![React](https://img.shields.io/badge/react-18.2.0-blue?logo=react&style=flat-square)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sara-source01/Sara-source01/main/assets/Image.png" alt="Banner" width="100%" />
+</p>
+
+<p align="center">
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/status-em%20aprendizado-ff69b4?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/focus-fullstack-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-18.2.0-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-18.15.0-green?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Insomnia-%2340B4D4?style=flat-square&logo=insomnia&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+---
 
 <h1 align="center">مرحبًا! 👋 أنا سارة | Olá! 👋 Eu sou a Sara</h1>
 
@@ -36,6 +52,7 @@
 
 ## 🛠️ Habilidades / المهارات
 
+```bash
 💡 Front-End: HTML5 | CSS3 | JavaScript | React  
 🛠️ Back-End: Node.js | Express | MongoDB  
 🔧 Ferramentas | أدوات: Git | GitHub | VS Code | Postman | Insomnia
@@ -43,19 +60,7 @@
 ---
 
 ## 🌐 مشاريعي / Meus Projetos
-
-### 🧩 Meu Portfólio  
-🔗 [رابط المشروع](https://github.com/Sara-source01/Meu-portfolio.git)  
-📄 صفحة تعريفية بمشاريعي ومهاراتي | Página com meus projetos e trajetória
-
-### 📇 Contact Manager  
-🔗 [رابط المستودع](https://github.com/Sara-source01/Contacts-API-Toti.git)  
-📄 إدارة جهات الاتصال باستخدام Node.js | Gerenciador de contatos com Node.js
-
-### 🍗 Receita de Frango  
-🔗 [رابط المستودع](https://github.com/Sara-source01/Receita-de-frango-HTML.git)  
-📄 صفحة وصفة بسيطة باستخدام HTML | Página de receita usando apenas HTML
-
+<p align="center"> <a href="https://github.com/Sara-source01/Meu-portfolio" target="_blank"> <img src="https://img.shields.io/badge/🔗 Meu Portfólio-FF69B4?style=for-the-badge" /> </a> <a href="https://github.com/Sara-source01/Contacts-API-Toti" target="_blank"> <img src="https://img.shields.io/badge/📇 Contact Manager-00CED1?style=for-the-badge" /> </a> <a href="https://github.com/Sara-source01/Receita-de-frango-HTML" target="_blank"> <img src="https://img.shields.io/badge/🍗 Receita de Frango-FFA07A?style=for-the-badge" /> </a> </p>
 ---
 
 ## 📊 GitHub Stats
