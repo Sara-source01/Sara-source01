@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there | أهلاً بك
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sara-source01/Sara-source01/main/assets/Image.png" alt="Banner" width="100%" />
@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <!-- Badges -->
   <img src="https://img.shields.io/badge/status-em%20aprendizado-ff69b4?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/focus-fullstack-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -25,7 +24,7 @@
 
 ---
 
-<h1 align="center">مرحبًا! 👋 أنا سارة | Olá! 👋 Eu sou a Sara</h1>
+<h2 align="center">✨ أنا سارة | Eu sou a Sara ✨</h2>
 
 <p align="center">
 💻 مطورة ويب في طور التعلم، أطمح لبناء مشاريع حقيقية باستخدام HTML, CSS, JavaScript وNode.js  
@@ -55,11 +54,11 @@
 
 ---
 
-## 🛠️ Habilidades / المهارات
+## 🛠️ Habilidades | Skills
 
-💡 Front-End: HTML5 | CSS3 | JavaScript | React  
-🛠️ Back-End: Node.js | Express | MongoDB  
-🔧 Ferramentات | أدوات: Git | GitHub | VS Code | Postman | Insomnia
+💡 **Front-End**: HTML5 | CSS3 | JavaScript | React  
+🛠️ **Back-End**: Node.js | Express | MongoDB  
+🔧 **Ferramentas | أدوات**: Git | GitHub | VS Code | Postman | Insomnia
 
 ---
 
@@ -87,7 +86,7 @@
 
 ---
 
-## 🏆 إنجازاتي على GitHub / Minhas Conquistas no GitHub
+## 🏆 إنجازاتي / Minhas Conquistas
 
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=Sara-source01&theme=flat" alt="GitHub Trophies" /> 
@@ -98,7 +97,7 @@
 ## 📫 للتواصل / Contato
 
 <p align="center">
-  🌐 <a href="https://linkedin.com/in/sara-ebrahim-george-24759b324">LinkedIn</a>  
+  🌐 <a href="https://linkedin.com/in/sara-ebrahim-george-24759b324" target="_blank">LinkedIn</a>  
   <br>
   📧 <a href="mailto:sara.ebrahim.george@gmail.com">sara.ebrahim.george@gmail.com</a>
 </p>
@@ -106,10 +105,11 @@
 ---
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    🌟 💖 ⭐ 💻 👩‍💻 🚀 🌈 🎯 🌟 💖 ⭐ 💻 👩‍💻 🚀 🌈 🎯 
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    ✨ 💖 🌸 💻 👩‍💻 🚀 🎯 🌈 ✨ 💖 🌸 💻 👩‍💻 🚀 🎯 🌈
   </marquee>
 </p>
 
 <p align="center">🌟 شكراً لزيارتك لصفحتي! / Obrigada por visitar meu perfil! 🌟</p>
+
 
