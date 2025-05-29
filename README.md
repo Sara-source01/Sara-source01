@@ -78,31 +78,42 @@
 ---
 
 
-## 👩‍💻 نبذة مهنية | Professional Snapshot
 
 ## 👩‍💻 نبذة مهنية | Professional Snapshot
 
-<table width="100%">
+
+
+<table>
   <tr>
     <td align="center" valign="top" width="50%">
-  ● 💻 مطورة ويب في طور التعلم 
-  ● 💡 أعمل على مشاريع باستخدام HTML, CSS, JavaScript, Node.js
-  ● 🌱 أطمح لبناء مسيرة مهنية في تطوير الويب الكامل Full Stack     
-  ● 📘 أعمل على تعلم ++C لتعزيز مهاراتي البرمجية وتطوير تطبيقات عالية الكفاءة  
+      
+  ### 🇸🇦 بالعربية
+  
+  - 💻 مطورة ويب في طور التعلم  
+  - 🌍 أعمل على مشاريع باستخدام HTML, CSS, JavaScript, Node.js  
+  - 💡 أطمح لبناء مسيرة مهنية في تطوير الويب الكامل Full Stack  
+  - 📘 أعمل على تعلم ++C لتعزيز مهاراتي البرمجية وتطوير تطبيقات عالية الكفاءة   
     
+  
   </td>
     <td align="center" valign="top" width="50%">
-      ● 💻 Desenvolvedora web em formação
-      ● 💡 Criando projetos com HTML, CSS, JavaScript, Node.js
-      ● 🌱 Busco uma carreira como desenvolvedora full stack
-      ● 📘 Estudando C++ para aprimorar minhas habilidades em programação e desenvolver aplicações eficientes
-    </td>
+      
+  ### 🇧🇷 Em português
+  
+  -  💻 Desenvolvedora web em formação  
+  - 💡 Criando projetos com HTML, CSS, JavaScript, Node.js  
+  - 🌱 Busco uma carreira como desenvolvedora full stack  
+  - 📘 Estudando C++ para aprimorar minhas habilidades em programação e desenvolver aplicações eficientes 
+   
+  
+  </td>
   </tr>
 </table>
 
 
 
 ---
+
 
 ## ✨ نبذة عني | Sobre mim
 
