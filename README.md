@@ -173,7 +173,7 @@
 
 ---
 -->
-### 📊 إحصائيات GitHub | Estatísticas do GitHub
+### 📊 إحصائيات (GitHub) | Estatísticas do GitHub
 
 
 <p align="center">
