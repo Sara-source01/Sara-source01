@@ -13,6 +13,7 @@
 </p>
 
 ---
+
 <p align="center">
   <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="Animated Waves" width="200" />
 </p>
@@ -33,6 +34,7 @@
 </p>
 
 ---
+
 
 ## 💼 لمحة شخصية | Quick Intro 
 
@@ -115,6 +117,7 @@
 
 ---
 
+
 ### 🏆 إنجازاتي | Minhas Conquistas
 
 <p align="center">
@@ -129,6 +132,7 @@
 
 
 ---
+
 
 ### 📫 تواصل معي | Contato
 
@@ -154,6 +158,7 @@
   </a>
 </p>
 -->
+
 ---
 
 <p align="center">
