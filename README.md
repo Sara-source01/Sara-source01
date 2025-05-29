@@ -52,19 +52,54 @@
 
 ## 🛠️ Habilidades / المهارات
 
-```bash
 💡 Front-End: HTML5 | CSS3 | JavaScript | React  
 🛠️ Back-End: Node.js | Express | MongoDB  
 🔧 Ferramentات | أدوات: Git | GitHub | VS Code | Postman | Insomnia
 
+---
 
-🌐 مشاريعي / Meus Projetos
-<p align="center"> <a href="https://github.com/Sara-source01/Meu-portfolio" target="_blank"> <img src="https://img.shields.io/badge/🔗 Meu Portfólio-FF69B4?style=for-the-badge" /> </a> <a href="https://github.com/Sara-source01/Contacts-API-Toti" target="_blank"> <img src="https://img.shields.io/badge/📇 Contact Manager-00CED1?style=for-the-badge" /> </a> <a href="https://github.com/Sara-source01/Receita-de-frango-HTML" target="_blank"> <img src="https://img.shields.io/badge/🍗 Receita de Frango-FFA07A?style=for-the-badge" /> </a> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sara-source01&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p>
-🏆 إنجازاتي على GitHub / Minhas Conquistas no GitHub
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Sara-source01&theme=flat" alt="GitHub Trophies" /> </p>
-📫 للتواصل / Contato
-<p align="center"> 🌐 <a href="https://linkedin.com/in/sara-ebrahim-george-24759b324">LinkedIn</a> <br> 📧 <a href="mailto:sara.ebrahim.george@gmail.com">sara.ebrahim.george@gmail.com</a> </p>
-<p align="center">🌟 شكراً لزيارتك لصفحتي! / Obrigada por visitar meu perfil! 🌟</p> ```="center">🌟 شكراً لزيارتك لصفحتي! / Obrigada por visitar meu perfil! 🌟</p>
+## 🌐 مشاريعي / Meus Projetos
+
+<p align="center"> 
+  <a href="https://github.com/Sara-source01/Meu-portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/🔗 Meu Portfólio-FF69B4?style=for-the-badge" />
+  </a> 
+  <a href="https://github.com/Sara-source01/Contacts-API-Toti" target="_blank">
+    <img src="https://img.shields.io/badge/📇 Contact Manager-00CED1?style=for-the-badge" />
+  </a> 
+  <a href="https://github.com/Sara-source01/Receita-de-frango-HTML" target="_blank">
+    <img src="https://img.shields.io/badge/🍗 Receita de Frango-FFA07A?style=for-the-badge" />
+  </a> 
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Sara-source01&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> 
+</p>
+
+---
+
+## 🏆 إنجازاتي على GitHub / Minhas Conquistas no GitHub
+
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Sara-source01&theme=flat" alt="GitHub Trophies" /> 
+</p>
+
+---
+
+## 📫 للتواصل / Contato
+
+<p align="center">
+  🌐 <a href="https://linkedin.com/in/sara-ebrahim-george-24759b324">LinkedIn</a>  
+  <br>
+  📧 <a href="mailto:sara.ebrahim.george@gmail.com">sara.ebrahim.george@gmail.com</a>
+</p>
+
+---
+
+<p align="center"> <marquee behavior="scroll" direction="left" scrollamount="6"> 🌟 💖 ⭐ 💻 👩‍💻 🚀 🌈 🎯 🌟 💖 ⭐ 💻 👩‍💻 🚀 🌈 🎯 </marquee> </p> <p align="center">🌟 شكراً لزيارتك لصفحتي! / Obrigada por visitar meu perfil! 🌟</p> ```
+
 
