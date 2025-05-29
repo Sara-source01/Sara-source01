@@ -29,18 +29,23 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
 </p>
 
+---
 
----## 💼 لمحة شخصية | Quick Intro
+## 💼 لمحة شخصية | Quick Intro
 
-```diff
-+ 💻 مطورة ويب في طور التعلم  
-+ 💡 أعمل على مشاريع باستخدام HTML, CSS, JavaScript، Node.js و C++  
-+ 🌱 أطمح لبناء مسيرة مهنية في تطوير الويب الكامل Full Stack  
+<p align="center" style="background-color:#ffe6f0; padding:20px; border-radius:12px; max-width:650px; margin:auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:17px; line-height:1.5; color:#4b0033; box-shadow: 0 6px 15px rgba(255, 105, 180, 0.3);">
 
-+ 💻 Desenvolvedora web em formação  
-+ 💡 Criando projetos com HTML, CSS, JavaScript, Node.js e C++  
-+ 🌱 Busco uma carreira como desenvolvedora full stack
+  💻 مطورة ويب في طور التعلم  
+  💡 أعمل على مشاريع باستخدام HTML, CSS, JavaScript، Node.js و C++  
+  🌱 أطمح لبناء مسيرة مهنية في تطوير الويب الكامل Full Stack  
 
+  <br/>
+
+  💻 Desenvolvedora web em formação  
+  💡 Criando projetos com HTML, CSS, JavaScript, Node.js e C++  
+  🌱 Busco uma carreira como desenvolvedora full stack
+
+</p>
 
 ---
 
