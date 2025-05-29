@@ -15,6 +15,11 @@
 ---
 
 <p align="center">
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="Animated Waves" width="200" />
+</p>
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/status-em%20aprendizado-ff69b4?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/focus-fullstack-blueviolet?style=flat-square" />
   <br/>
@@ -28,7 +33,9 @@
   <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Insomnia-%2340B4D4?style=flat-square&logo=insomnia&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </p>
+
 
 
 ---
