@@ -40,28 +40,33 @@
 🔧 Ferramentas | أدوات: Git | GitHub | VS Code | Postman | Insomnia
 
 
-| 🌐 المشروع                                                                                                                                           | الوصف (AR)                          | descrição (PT)                        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------- |
-| [Meu Portfólio](https://sara-source01.github.io/Meu-portfolio/)                                                                                      |                                     |                                       |
-| ![GitHub Pages](https://img.shields.io/github/deployments/Sara-source01/Meu-portfolio/github-pages?label=GitHub%20Pages\&style=flat-square)          |                                     |                                       |
-| ![License](https://img.shields.io/github/license/Sara-source01/Meu-portfolio?style=flat-square)                                                      | صفحة تعريفية بمشاريعي ومهاراتي      | Página com meus projetos e trajetória |
-| [Contact Manager](https://github.com/Sara-source01/contact-manager)                                                                                  |                                     |                                       |
-| ![Node.js](https://img.shields.io/badge/node.js-18.15.0-green?logo=node.js\&style=flat-square)                                                       |                                     |                                       |
-| ![Build Status](https://github.com/Sara-source01/contact-manager/actions/workflows/nodejs.yml/badge.svg)                                             |                                     |                                       |
-| ![License](https://img.shields.io/github/license/Sara-source01/contact-manager?style=flat-square)                                                    |                                     |                                       |
-| ![GitHub stars](https://img.shields.io/github/stars/Sara-source01/contact-manager?style=social)                                                      | إدارة جهات الاتصال باستخدام Node.js | Gerenciador de contatos com Node.js   |
-| [Receita de Frango](https://github.com/Sara-source01/Receita-de-frango-HTML)                                                                         |                                     |                                       |
-| ![GitHub Pages](https://img.shields.io/github/deployments/Sara-source01/Receita-de-frango-HTML/github-pages?label=GitHub%20Pages\&style=flat-square) |                                     |                                       |
-| ![License](https://img.shields.io/github/license/Sara-source01/Receita-de-frango-HTML?style=flat-square)                                             | صفحة وصفة بسيطة باستخدام HTML       | Página de receita usando apenas HTML  |
+🌐 مشاريعي / Meus Projetos
+🧩 Meu Portfólio
+🔗 عرض المشروع
 
+
+📄 صفحة تعريفية بمشاريعي ومهاراتي | Página com meus projetos e trajetória
+
+📇 Contact Manager
+🔗 المستودع
+
+
+
+
+📄 إدارة جهات الاتصال باستخدام Node.js | Gerenciador de contatos com Node.js
+
+🍗 Receita de Frango
+🔗 المستودع
+
+
+📄 صفحة وصفة بسيطة باستخدام HTML | Página de receita usando apenas HTML
 
 📊 GitHub Stats
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sara-source01&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" /> </p>
 🏆 إنجازاتي على GitHub / Minhas Conquistas no GitHub
-<p align="center"> ![trophy](https://github-profile-trophy.vercel.app/?username=Sara-source01&theme=flat) </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Sara-source01&theme=flat" alt="GitHub Trophies" /> </p>
 📫 للتواصل / Contato
-🌐 https://linkedin.com/in/sara-ebrahim-george-24759b324
+🌐 LinkedIn
 📧 sara.ebrahim.george@gmail.com
 
 <p align="center">🌟 شكراً لزيارتك لصفحتي! / Obrigada por visitar meu perfil! 🌟</p> ```
