@@ -24,4 +24,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: Sara-source01
-          THEME: solarized_light
