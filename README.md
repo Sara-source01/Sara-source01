@@ -157,7 +157,7 @@
 
 ---
 -->
-<!--### 🌐 مشاريعي | Meus Projetos
+### 🌐 مشاريعي | Meus Projetos
 
 <p align="center">
   <a href="https://github.com/Sara-source01/Meu-portfolio" target="_blank">
@@ -172,7 +172,7 @@
 </p>
 
 ---
--->
+
 ### 📊 إحصائيات (GitHub) | Estatísticas do GitHub
 
 
