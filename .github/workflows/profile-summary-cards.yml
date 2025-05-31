@@ -1,18 +1,19 @@
 name: Generate GitHub Profile Summary Cards
 
 on:
-  schedule:
-    - cron: '0 0 * * *'  # يشغّل الإجراء كل يوم عند منتصف الليل بتوقيت UTC
+  workflow_dispatch:
   push:
     branches:
       - main
-  workflow_dispatch:  # يتيح لك تشغيله يدويًا من تبويب Actions
+  schedule:
+    - cron: '0 0 * * *'
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write  # السماح بكتابة الملفات داخل المستودع
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -22,6 +23,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
-          USERNAME: Sara-source01       
-          THEME: solarized_light         # ← يمكن تغييره لأي من الثيمات المتوفرة
-
+          USERNAME: Sara-source01
+          THEME: solarized_light
