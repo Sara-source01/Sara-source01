@@ -2,16 +2,19 @@ name: Generate GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # تحديث يومي
+    - cron: '0 0 * * *'  # تشغيل يومي
   push:
     branches:
       - main
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
     steps:
+      - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: Sara-source01
