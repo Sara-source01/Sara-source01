@@ -45,19 +45,22 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://nodejs.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Node.js-18.15.0-green?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-      </a><br/>
-      <a href="https://expressjs.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Express.js-%23404d59?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-      </a><br/>
-      <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      </a><br/>
-      <a href="https://isocpp.org/" target="_blank">
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-      </a>
-    </td>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-18.15.0-green?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  </a><br/>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  </a><br/>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a><br/>
+  <a href="https://www.sqlite.org/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  </a><br/>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  </a>
+</td>
     <td align="center">
       <a href="https://insomnia.rest/" target="_blank">
         <img src="https://img.shields.io/badge/Insomnia-%2340B4D4?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia" />
