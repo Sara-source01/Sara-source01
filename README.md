@@ -1,6 +1,5 @@
- # 👋 **أهلاً بك، أنا سارة** | *Hi there, I'm Sara*
-
-
+<h1 align="center">👋 مرحبًا بك | Bem-vindo(a)!</h1>
+<p align="center"><b>أنا سارة، مطوّرة ويب في طور التعلّم 💻 | Sou a Sara, desenvolvedora web em formação 💡</b></p>
 
 <!--
 <p align="center">
@@ -45,41 +44,39 @@
       </a>
     </td>
     <td align="center">
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-18.15.0-green?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  </a><br/>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-  </a><br/>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  </a><br/>
-  <a href="https://www.sqlite.org/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  </a><br/>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  </a>
-</td>
-    <td align="center">
-      <a href="https://insomnia.rest/" target="_blank">
-        <img src="https://img.shields.io/badge/Insomnia-%2340B4D4?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia" />
+      <a href="https://nodejs.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Node.js-18.15.0-green?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
       </a><br/>
-      <a href="https://www.postman.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+      <a href="https://expressjs.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
       </a><br/>
-      <a href="https://github.com/" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
       </a><br/>
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <a href="https://www.sqlite.org/index.html" target="_blank">
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      </a><br/>
+      <a href="https://isocpp.org/" target="_blank">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
       </a>
     </td>
-  </tr>
-</table>
-
-
-
+    <td align="center">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  </a><br/>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a><br/>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  </a><br/>
+  <a href="https://insomnia.rest/" target="_blank">
+    <img src="https://img.shields.io/badge/Insomnia-%2340B4D4?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia" />
+  </a><br/>
+  <a href="https://www.mongodb.com/products/compass" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB%20Compass-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB Compass" />
+  </a>
+</td>
 
 ---
 
@@ -178,14 +175,14 @@
 </p>
 
 ---
+## 📊 إحصائيات (GitHub) | Estatísticas do GitHub
 
-### 📊 إحصائيات (GitHub) | Estatísticas do GitHub
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sara-source01&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-source01&layout=compact&langs_count=7&theme=dark" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sara-source01&theme=dark" alt="stats" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sara-source01&show_icons=true&theme=city_lights" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-source01&layout=compact&langs_count=7&theme=city_lights" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sara-source01&theme=city_lights" alt="GitHub Streak" />
 </div>
+
 
 ---
 
@@ -201,7 +198,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sara-source01&theme=radical&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sara-source01&theme=city_lights&row=2&column=3" alt="GitHub Trophies" />
 </p>
 
 
