@@ -181,12 +181,14 @@
 
 ### 📊 إحصائيات (GitHub) | Estatísticas do GitHub
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sara-source01&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sara-source01&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-source01&layout=compact&langs_count=7&theme=dark" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sara-source01&theme=dark" alt="stats" />
+</div>
 
 ---
+
 
 
 ### 🏆 إنجازاتي | Minhas Conquistas
