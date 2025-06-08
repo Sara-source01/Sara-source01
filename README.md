@@ -1,5 +1,5 @@
 <h1 align="center">👋 مرحبًا بك | Bem-vindo(a)!</h1>
-<p align="center"><b>أنا سارة، مطوّرة ويب في طور التعلّم 💻 | Sou a Sara, desenvolvedora web em formação 💡</b></p>
+<p align="center"><b>أنا سارة، مطوّرة ويب في طور التعلُّم 💻 | Sou a Sara, desenvolvedora web em formação 💡</b></p>
 
 <!--
 <p align="center">
@@ -11,16 +11,16 @@
   <img src="https://img.shields.io/github/followers/Sara-source01?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="Animated Waves" width="200" />
 </p>
 
-## 🛠️ مهارات في طور التعلم | Habilidades em desenvolvimento
+---
 
-*هذه التقنيات التي أتعلمها وأعمل على تطوير مهاراتي فيها بشكل مستمر.*  
-*Estas são as tecnologias que estou estudando e aprimorando constantemente.*
+## 🛠️ مهارات في طور التعلُّم | Habilidades em desenvolvimento
+
+*هذه قائمة بالتقنيات التي أتعلَّمها وأعمل على تطوير مهاراتي فيها بشكل مستمر.*  
+*Lista de tecnologias que estou estudando e aprimorando constantemente.*
 
 <table align="center">
   <tr>
@@ -61,30 +61,34 @@
       </a>
     </td>
     <td align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  </a><br/>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a><br/>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  </a><br/>
-  <a href="https://insomnia.rest/" target="_blank">
-    <img src="https://img.shields.io/badge/Insomnia-%2340B4D4?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia" />
-  </a><br/>
-  <a href="https://www.mongodb.com/products/compass" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB%20Compass-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB Compass" />
-  </a>
-</td>
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      </a><br/>
+      <a href="https://github.com/" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      </a><br/>
+      <a href="https://www.postman.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+      </a><br/>
+      <a href="https://insomnia.rest/" target="_blank">
+        <img src="https://img.shields.io/badge/Insomnia-%2340B4D4?style=flat-square&logo=insomnia&logoColor=white" alt="Insomnia" />
+      </a><br/>
+      <a href="https://www.mongodb.com/products/compass" target="_blank">
+        <img src="https://img.shields.io/badge/MongoDB%20Compass-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB Compass" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 
 
+
+
+
+
 ## 👩‍💻 نبذة مهنية | Professional Snapshot
-
-
 
 <table>
   <tr>
