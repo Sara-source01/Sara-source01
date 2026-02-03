@@ -184,8 +184,8 @@
 ## 📊 إحصائيات (GitHub) | Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sara-source01&show_icons=true&theme=city_lights" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-source01&layout=compact&langs_count=7&theme=city_lights" alt="Top Languages" />
+ <img height="180em" src="https://github-readme-stats-sara.vercel.app/api?username=Sara-source01&show_icons=true&theme=city_lights" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-sara.vercel.app/api/top-langs/?username=Sara-source01&layout=compact&langs_count=7&theme=city_lights" alt="Top Languages" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sara-source01&theme=city_lights" alt="GitHub Streak" />
 </div>
 
@@ -204,9 +204,8 @@
 -->
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sara-source01&theme=city_lights&row=2&column=3" alt="GitHub Trophies" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Sara-source01&theme=city_lights&row=2&column=3" alt="GitHub Trophies" />
+
 
 
 
