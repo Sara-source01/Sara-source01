@@ -186,22 +186,23 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sara.vercel.app/api?username=Sara-source01&show_icons=true&theme=city_lights" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats-sara.vercel.app/api/top-langs/?username=Sara-source01&layout=compact&langs_count=7&theme=city_lights" alt="Top Languages" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=Sara-source01&theme=city_lights" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Sara-source01&theme=city_lights" alt="GitHub Streak" />
 </div>
 
 
 ---
 
 
-
+<!--
 ### 🏆 إنجازاتي | Minhas Conquistas
 
+-->
 <!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sara-source01&theme=tokyonight&row=1&column=5" alt="GitHub Trophies" />
 </p>
 -->
-
+<!--
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=Sara-source01&theme=city_lights&row=2&column=3&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
@@ -209,7 +210,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sara-source01&theme=city" />
 </p>
-
+-->
 
 <!--
 <p align="center">
